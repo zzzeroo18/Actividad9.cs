@@ -1,0 +1,14 @@
+C:\Users\Estudiante\Documents\actividades poo\Act9\bin\Debug\net8.0\Act9.exe
+C:\Users\Estudiante\Documents\actividades poo\Act9\bin\Debug\net8.0\Act9.deps.json
+C:\Users\Estudiante\Documents\actividades poo\Act9\bin\Debug\net8.0\Act9.runtimeconfig.json
+C:\Users\Estudiante\Documents\actividades poo\Act9\bin\Debug\net8.0\Act9.dll
+C:\Users\Estudiante\Documents\actividades poo\Act9\bin\Debug\net8.0\Act9.pdb
+C:\Users\Estudiante\Documents\actividades poo\Act9\obj\Debug\net8.0\Act9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Documents\actividades poo\Act9\obj\Debug\net8.0\Act9.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Documents\actividades poo\Act9\obj\Debug\net8.0\Act9.AssemblyInfo.cs
+C:\Users\Estudiante\Documents\actividades poo\Act9\obj\Debug\net8.0\Act9.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\actividades poo\Act9\obj\Debug\net8.0\Act9.dll
+C:\Users\Estudiante\Documents\actividades poo\Act9\obj\Debug\net8.0\refint\Act9.dll
+C:\Users\Estudiante\Documents\actividades poo\Act9\obj\Debug\net8.0\Act9.pdb
+C:\Users\Estudiante\Documents\actividades poo\Act9\obj\Debug\net8.0\Act9.genruntimeconfig.cache
+C:\Users\Estudiante\Documents\actividades poo\Act9\obj\Debug\net8.0\ref\Act9.dll
